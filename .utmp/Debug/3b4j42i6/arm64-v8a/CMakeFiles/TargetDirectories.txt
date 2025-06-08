@@ -1,0 +1,5 @@
+C:/Users/User/Desktop/PI/Adventure/.utmp/Debug/3b4j42i6/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/PI/Adventure/.utmp/Debug/3b4j42i6/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/PI/Adventure/.utmp/Debug/3b4j42i6/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/User/Desktop/PI/Adventure/.utmp/Debug/3b4j42i6/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/PI/Adventure/.utmp/Debug/3b4j42i6/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
