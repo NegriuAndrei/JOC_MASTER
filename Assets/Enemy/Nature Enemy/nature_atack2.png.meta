@@ -202,7 +202,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      nature_atack2_0: 1391336724116041136
+      nature_atack2_1: -7567248427437771354
+      nature_atack2_2: 1052674962456680655
+      nature_atack2_3: 4195088283175472758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

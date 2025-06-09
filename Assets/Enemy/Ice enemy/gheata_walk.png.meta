@@ -202,7 +202,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gheata_walk_0: -5060729031618814221
+      gheata_walk_1: 4148696295737385187
+      gheata_walk_2: 3655171917312734652
+      gheata_walk_3: -3345452177586819651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

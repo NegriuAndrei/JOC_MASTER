@@ -154,7 +154,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fire_elemental_run_transparent_0: -713919075581882714
+      fire_elemental_run_transparent_1: 4326534168616539839
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

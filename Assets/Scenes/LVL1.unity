@@ -42681,7 +42681,7 @@ Tilemap:
       - {fileID: 21300000, guid: e9f4904b2ff45734ca85fb7f0e6e0610, type: 3}
       - {fileID: 21300000, guid: 0fb8209baed1ec54dadada0553e0abed, type: 3}
       - {fileID: 21300000, guid: 9ab166034e4275146a02697c7b90ee7a, type: 3}
-      m_AnimationSpeed: 5
+      m_AnimationSpeed: 5.0000005
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 29, y: -3, z: 0}
@@ -42934,7 +42934,7 @@ Tilemap:
       - {fileID: 21300000, guid: e9f4904b2ff45734ca85fb7f0e6e0610, type: 3}
       - {fileID: 21300000, guid: 0fb8209baed1ec54dadada0553e0abed, type: 3}
       - {fileID: 21300000, guid: 9ab166034e4275146a02697c7b90ee7a, type: 3}
-      m_AnimationSpeed: 5.0000005
+      m_AnimationSpeed: 5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 49, y: -3, z: 0}
@@ -43095,7 +43095,7 @@ Tilemap:
       - {fileID: 21300000, guid: e9f4904b2ff45734ca85fb7f0e6e0610, type: 3}
       - {fileID: 21300000, guid: 0fb8209baed1ec54dadada0553e0abed, type: 3}
       - {fileID: 21300000, guid: 9ab166034e4275146a02697c7b90ee7a, type: 3}
-      m_AnimationSpeed: 5.0000005
+      m_AnimationSpeed: 5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 16, y: 3, z: 0}
@@ -43348,7 +43348,7 @@ Tilemap:
       - {fileID: 21300000, guid: e9f4904b2ff45734ca85fb7f0e6e0610, type: 3}
       - {fileID: 21300000, guid: 0fb8209baed1ec54dadada0553e0abed, type: 3}
       - {fileID: 21300000, guid: 9ab166034e4275146a02697c7b90ee7a, type: 3}
-      m_AnimationSpeed: 5.0000005
+      m_AnimationSpeed: 5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 51, y: 13, z: 0}
@@ -60698,6 +60698,30 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 418346914}
+    - target: {fileID: 6866090218132628245, guid: 2a1b271101f9afa479c7d45a1888e13b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4167629
+      objectReference: {fileID: 0}
+    - target: {fileID: 6866090218132628245, guid: 2a1b271101f9afa479c7d45a1888e13b, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.3603865
+      objectReference: {fileID: 0}
+    - target: {fileID: 6866090218132628245, guid: 2a1b271101f9afa479c7d45a1888e13b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.91818213
+      objectReference: {fileID: 0}
+    - target: {fileID: 6866090218132628245, guid: 2a1b271101f9afa479c7d45a1888e13b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6866090218132628245, guid: 2a1b271101f9afa479c7d45a1888e13b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 6866090218132628245, guid: 2a1b271101f9afa479c7d45a1888e13b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0742
+      objectReference: {fileID: 0}
     - target: {fileID: 9029049777628748218, guid: 2a1b271101f9afa479c7d45a1888e13b, type: 3}
       propertyPath: m_Name
       value: Vampire

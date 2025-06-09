@@ -202,7 +202,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      naturegolem_run_0: 9114602459474211379
+      naturegolem_run_1: -4061593716538490300
+      naturegolem_run_2: -660738442444387814
+      naturegolem_run_3: -1297481169506186828
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
